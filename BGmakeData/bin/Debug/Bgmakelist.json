@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 001,
+    "Name": "경복궁",
+    "MkInfo": "과거와 현재가 공존 해야 합니다.",
+    "InSideVer": "yes",
+    "DestroyVer": "no",
+    "Important": "주변 조경은 4계절용으로 만들어야 합니다.",
+    "Explain": "조선 제일의 법궁"
+  },
+  {
+    "ID": 002,
+    "Name": "덕수궁",
+    "MkInfo": "현존 하지 않는 부분은 자료 조사후 작업 진행.",
+    "InSideVer": "yes",
+    "DestroyVer": "yes",
+    "Important": "주변 조경은 4계절용으로 만들어야 합니다.,채도를 조금 낮췄으면 합니다.",
+    "Explain": "퇴위한 왕들의 거처"
+  },
+  {
+    "ID": 003,
+    "Name": "창경궁",
+    "MkInfo": "불에 그을린 효과 필요함.",
+    "InSideVer": "yes",
+    "DestroyVer": "yes",
+    "Important": "주변 조경은 4계절용으로 만들어야 합니다.,채도를 조금 높혔으면 합니다.",
+    "Explain": "대비 마마 거처"
+  },
+  {
+    "ID": 004,
+    "Name": "북악산",
+    "MkInfo": "Terrain 사용.",
+    "InSideVer": "no",
+    "DestroyVer": "no",
+    "Important": "주변 조경은 4계절용으로 만들어야 합니다.",
+    "Explain": "경복궁 근처의 산(주로 뒷 배경으로 사용할 것임)"
+  }
+]
